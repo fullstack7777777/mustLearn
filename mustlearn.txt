@@ -1,0 +1,26 @@
+html, css, js:
+css:
+widh,height,margin,padding?
+
+html:, 
+<a>,<p>,<img>,<div>,<table><tr><td>,<script> etc..
+
+javascript:  Const, Let, Var, setInterval, setTimeout, callbacks etc
+
+web:
+What is Cookies? What is localstorage? What is the difference between them?
+What is EventListeners, why do we need them?
+
+node:
+npm, package.json
+
+Express
+middlewares, routing,
+  
+Http:
+Return statuses (200 ,300 ,400 ,500)
+Get, Put, Post, Delete
+
+What is JSON and why do we need it 
+
+JWT, Bcrypt 
